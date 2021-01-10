@@ -1,0 +1,7 @@
+1) Relatie User-Ticket (OnetoMany sau OnetoOne?)?
+2) Enumurile trebuie salvate in DB? Cum se salveaza?
+3) Event startTime String vs something special (like Date)?
+
+//use OffsetDateTime, LocalDateTime
+
+4) Cand si cum creem baza de date?
